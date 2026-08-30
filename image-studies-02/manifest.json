@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "project": "Ion identity diversity sprint",
+  "master": {
+    "format": "svg",
+    "width": 2400,
+    "height": 1200
+  },
+  "designConstraint": "Each study changes composition, palette, typography, texture, metaphor, and emotional register; no shared witness mark.",
+  "studies": [
+    {
+      "id": "01",
+      "slug": "type-monument",
+      "name": "Type Monument"
+    },
+    {
+      "id": "02",
+      "slug": "pop-commons",
+      "name": "Pop Commons"
+    },
+    {
+      "id": "03",
+      "slug": "pixel-habitat",
+      "name": "Pixel Habitat"
+    },
+    {
+      "id": "04",
+      "slug": "quiet-signal",
+      "name": "Quiet Signal"
+    },
+    {
+      "id": "05",
+      "slug": "xerox-broadside",
+      "name": "Xerox Broadside"
+    },
+    {
+      "id": "06",
+      "slug": "chromatic-portal",
+      "name": "Chromatic Portal"
+    }
+  ]
+}

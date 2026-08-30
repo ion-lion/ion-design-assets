@@ -1,0 +1,61 @@
+{
+  "checks": {
+    "dimensions": [
+      1200,
+      600
+    ],
+    "max_edge_stddev": 0.002,
+    "chromatic_min_channel_difference": 0.02
+  },
+  "artifacts": [
+    {
+      "file": "01-type-monument.png",
+      "width": 1200,
+      "height": 600,
+      "rg_difference": 0.011218,
+      "gb_difference": 0.022436,
+      "max_edge_stddev": 0.0
+    },
+    {
+      "file": "02-pop-commons.png",
+      "width": 1200,
+      "height": 600,
+      "rg_difference": 0.087052,
+      "gb_difference": 0.111905,
+      "max_edge_stddev": 0.0
+    },
+    {
+      "file": "03-pixel-habitat.png",
+      "width": 1200,
+      "height": 600,
+      "rg_difference": 0.065115,
+      "gb_difference": 0.112386,
+      "max_edge_stddev": 0.0
+    },
+    {
+      "file": "04-quiet-signal.png",
+      "width": 1200,
+      "height": 600,
+      "rg_difference": 0.011987,
+      "gb_difference": 0.035277,
+      "max_edge_stddev": 0.0
+    },
+    {
+      "file": "05-xerox-broadside.png",
+      "width": 1200,
+      "height": 600,
+      "rg_difference": 0.107316,
+      "gb_difference": 0.055465,
+      "max_edge_stddev": 0.0
+    },
+    {
+      "file": "06-chromatic-portal.png",
+      "width": 1200,
+      "height": 600,
+      "rg_difference": 0.03452,
+      "gb_difference": 0.025771,
+      "max_edge_stddev": 0.0
+    }
+  ],
+  "failures": []
+}
